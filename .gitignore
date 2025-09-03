@@ -1,0 +1,5 @@
+# Python virtual environment
+myenv/
+
+# VS Code / Cursor workspace settings (optional — remove if you want to share team settings)
+.vscode/
