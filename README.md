@@ -7,3 +7,7 @@ Fits a signed distance field (SDF) to a procedural canyon terrain using a tiny R
 ## MLP Quality
 
 ![MLP quality](./mlp_quality.png)
+
+## GI
+
+![GI](./GI.png)
